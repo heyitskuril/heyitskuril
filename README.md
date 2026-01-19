@@ -23,6 +23,7 @@
 ## About Me
 
 Hello there 👋,
+<br/>
 I’m **Kuril**, a **Full-Stack Web Developer** based in Jakarta, Indonesia, specializing in the **PERN Stack**  
 (PostgreSQL · Express · React · Node.js).
 
