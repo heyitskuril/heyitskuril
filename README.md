@@ -6,10 +6,10 @@
 
 <br>
 
-[![Email](https://img.shields.io/badge/Gmail-heyitskuril@gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heyitskuril@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-heyitskuril-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heyitskuril)
-[![Portfolio](https://img.shields.io/badge/Website-heyitskuril.com-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://heyitskuril.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@heyitskuril-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyitskuril)
+[![Email](https://img.shields.io/badge/heyitskuril@gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heyitskuril@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/heyitskuril-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heyitskuril)
+[![Portfolio](https://img.shields.io/badge/heyitskuril.com-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://heyitskuril.com)
+[![GitHub](https://img.shields.io/badge/@heyitskuril-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heyitskuril)
 
 </div>
 
@@ -113,10 +113,10 @@ Clean Architecture • Best Practices • Mentorship • Innovation • Real-wor
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-heyitskuril@gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heyitskuril@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-heyitskuril-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heyitskuril)
-[![Portfolio](https://img.shields.io/badge/Website-heyitskuril.com-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://heyitskuril.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@heyitskuril-1E90FF?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heyitskuril)
+[![Email](https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heyitskuril@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heyitskuril)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://heyitskuril.com)
+[![Instagram](https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heyitskuril)
 
 <br>
 
