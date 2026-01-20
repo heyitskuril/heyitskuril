@@ -22,25 +22,55 @@
 
 ## About Me
 
-Hello there 👋,
-<br/>
-I’m **Kuril**, a **Full-Stack Web Developer** based in Jakarta, Indonesia, specializing in the **PERN Stack**  
-(PostgreSQL · Express · React · Node.js).
+Hello there 👋,  
+I’m **Kuril**, a **Full-Stack Web Developer** based in Jakarta, Indonesia, specializing in the **PERN Stack** (PostgreSQL · Express · React · Node.js).  
 
-I build **production-ready web applications** with a strong focus on **frontend architecture and long-term maintainability**, including :
+I build **production-ready web applications** with strong **frontend architecture**, **long-term maintainability**, and a **T-shaped skillset** that spans complex frontend patterns, backend design, and DevOps practices.
 
-- **Clean Architecture (Frontend & Backend)**
-- **Feature-Based & Domain-Oriented Frontend Structure**
-- **Domain-Driven Design (DDD) on the Backend**
-- **Repository Pattern & SOLID Principles**
+**Core Practices :**
+- **Clean Architecture (Frontend & Backend)**  
+- **Feature-Based & Domain-Oriented Frontend Structure**  
+- **Domain-Driven Design (DDD) on the Backend**  
+- **Repository Pattern & SOLID Principles**  
 
-I’m particularly interested in **frontend engineering**, focusing on scalable React applications, predictable state management, and clean separation between UI, domain, and data layers.
+I’m particularly passionate about **frontend engineering**, focusing on **scalable React applications**, predictable state management, and clean separation between UI, domain, and data layers.  
 
 **Currently expanding :** Next.js · NestJS · CI/CD · Advanced system design  
 **Open to roles :** Full-Stack Developer · Frontend Developer  
 **Work preference :** Remote or Hybrid
 
-<br>
+<br/>
+
+---
+
+## Featured Project
+
+### [Intaku](https://github.com/heyitskuril/intaku) — Client Intake Management Platform  
+> **Live :** [intaku.vercel.app](https://intaku.vercel.app) | **Architecture Docs :** [ARCHITECTURE.md](https://github.com/heyitskuril/intaku/blob/main/docs/ARCHITECTURE.md)
+
+**The Problem :** Freelancers lose clients in chaotic DM conversations. No systematic way to pre-qualify or track inquiries.  
+
+**The Solution :** A branded intake portal (think "Linktree for business") that transforms unstructured requests into actionable data.
+
+**What Makes It Stand Out :**
+- **Not a tutorial clone** — Solves real freelancing problems  
+- **Production-grade** — Live deployment, monitoring, CI/CD  
+- **Architecture-first** — Domain-driven design, strategic testing, documented trade-offs  
+- **Interview-ready** — Can explain every technical decision  
+
+**Key Achievements :**
+- Built **drag-and-drop form builder** with dynamic validation  
+- Implemented **JWT auth with refresh tokens** & RBAC  
+- Optimized **React re-renders** for 50+ field configurations  
+- Designed **testable architecture** (Repository Pattern, DDD)  
+- Documented **all architectural trade-offs**  
+
+**Tech Stack :** React 18 · TypeScript · Zustand · Tailwind · Node.js · Express · PostgreSQL · Prisma · Docker · Railway · Vercel
+
+[→ Explore the project](https://github.com/heyitskuril/intaku)
+
+
+<br/>
 
 ---
 
