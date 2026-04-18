@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Kuril%20-%20Full%20Stack%20Developer&fontSize=50&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Kuril%20-%20Full%20Stack%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 ### PERN Stack Specialist | Frontend-Centric | Production-Ready
 
-**📍 Jakarta, Indonesia** • 🟢 **Available for Remote/Hybrid**
+**📍 Jakarta, Indonesia** • **🟢 Available for Remote**
 
 <br/>
 
@@ -15,70 +15,107 @@
 
 </div>
 
-<br/>
-
 ---
 
-### 👋 Hello there,
+## 👋 Hello There
 
 I'm **Kuril**, building production-ready apps with **React** and **Node.js**. Passionate about clean architecture and scalable systems.
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🛠️ Tech Stack
+## 🛠️ T-Shaped Tech Stack
 
 <div align="center">
 
-**Frontend Core**
+### Broad Knowledge
 
-<img src="https://skillicons.dev/icons?i=react,typescript&theme=dark" />
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=figma&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=git&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=vercel&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" /></td>
+</tr>
 
-**UI & Styling**
+<tr>
+<td><img src="https://skillicons.dev/icons?i=vitest&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=postman&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=astro&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=sentry&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=graphql&theme=dark" /></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=tailwind,materialui,sass&theme=dark" />
+### Specialist Depth
 
-**State & Data**
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=redux,graphql&theme=dark" />
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /></td>
+</tr>
 
-**Backend**
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma&theme=dark" />
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></td>
+</tr>
 
-**Testing & Tools**
+<tr>
+<td align="center">
+<img width="48" height="48" style="border-radius:12px;" src="https://img.shields.io/badge/TanStack-1E90FF?style=for-the-badge&logo=logoColor=white&label=" />
+</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=redis&theme=dark" /></td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=vitest,postman,docker&theme=dark" />
+<tr>
+<td align="center">
+<img width="48" height="48" style="border-radius:12px;" src="https://img.shields.io/badge/T3-1E90FF?style=for-the-badge&logo=logoColor=white" />
+</td>
+
+<td align="center">
+<img width="48" height="48" style="border-radius:12px;" src="https://img.shields.io/badge/tRPC-1E90FF?style=for-the-badge&logo=logoColor=white" />
+</td>
+</tr>
+
+</table>
 
 </div>
 
-</td>
-<td width="50%" valign="top">
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=heyitskuril&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=FFFFFF" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=heyitskuril&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=FFFFFF" height="200"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitskuril&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1E90FF&text_color=FFFFFF" width="100%"/>
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyitskuril&locale=en&hide_title=false&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=1E90FF&text_color=FFFFFF&bg_color=0D1117&custom_title=Code%20Composition&hide=Jupyter%20Notebook" height="200" alt="Top languages used by Kuril" />
+
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=heyitskuril&bg_color=0D1117&color=1E90FF&line=1E90FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 
 </div>
 
-</td>
-</tr>
-</table>
-
 ---
 
 <div align="center">
 
-[![](https://github-profile-trophy.vercel.app/?username=heyitskuril&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/heyitskuril)
+### Thanks for Visiting 👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
 
