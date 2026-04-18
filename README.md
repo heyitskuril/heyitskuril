@@ -109,7 +109,7 @@ I'm **Kuril**, building production-ready apps with **React** and **Node.js**. Pa
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyitskuril&locale=en&hide_title=false&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=1E90FF&text_color=FFFFFF&bg_color=0D1117&custom_title=Code%20Composition&hide=Jupyter%20Notebook" height="200" alt="Top languages used by Kuril" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitskuril&locale=en&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=1E90FF&text_color=FFFFFF&bg_color=0D1117&custom_title=Code%20Composition&hide=Jupyter%20Notebook&cache_seconds=1800" height="200" alt="Top languages used by Kuril" />
 
 <br><br>
 
