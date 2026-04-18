@@ -4,9 +4,10 @@
 
 ### PERN Stack Specialist | Frontend-Centric | Production-Ready
 
+<br/>
+
 **📍 Jakarta, Indonesia** • **🟢 Available for Remote**
 
-<br/>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heyitskuril)
