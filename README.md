@@ -17,15 +17,12 @@
 </div>
 
 <br/>
-<br/>
 
 ---
 
 ## 👋 Hello There
 
 I'm **Kuril**, building production-ready apps with **React** and **Node.js**. Passionate about clean architecture and scalable systems.
-
-<br/>
 
 ---
 
