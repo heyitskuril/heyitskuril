@@ -7,6 +7,7 @@
 **📍 Jakarta, Indonesia** • **🟢 Available for Remote**
 
 <br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heyitskuril)
 [![Instagram](https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heyitskuril)
@@ -15,11 +16,16 @@
 
 </div>
 
+<br/>
+<br/>
+
 ---
 
 ## 👋 Hello There
 
 I'm **Kuril**, building production-ready apps with **React** and **Node.js**. Passionate about clean architecture and scalable systems.
+
+<br/>
 
 ---
 
@@ -92,6 +98,8 @@ I'm **Kuril**, building production-ready apps with **React** and **Node.js**. Pa
 </table>
 
 </div>
+
+<br/>
 
 ---
 
