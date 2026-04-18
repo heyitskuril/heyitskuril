@@ -44,12 +44,12 @@ I'm **Kuril**, building production-ready apps with **React** and **Node.js**. Pa
 </tr>
 
 <tr>
+<td><img src="https://skillicons.dev/icons?i=vite&theme=dark" /></td>
 <td><img src="https://skillicons.dev/icons?i=vitest&theme=dark" /></td>
 <td><img src="https://skillicons.dev/icons?i=postman&theme=dark" /></td>
 <td><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" /></td>
 <td><img src="https://skillicons.dev/icons?i=astro&theme=dark" /></td>
 <td><img src="https://skillicons.dev/icons?i=sentry&theme=dark" /></td>
-<td><img src="https://skillicons.dev/icons?i=graphql&theme=dark" /></td>
 </tr>
 </table>
 
