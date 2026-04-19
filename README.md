@@ -23,7 +23,9 @@
 
 ## 👋 Hello There
 
-I'm **Kuril**, building production-ready apps with **React** and **Node.js**. Passionate about clean architecture and scalable systems.
+I'm **Kuril**, I build production-ready web applications using **React** and **Node.js**, with a focus on performance, clean architecture, and scalability.
+<br>
+Currently helping businesses improve their online presence through modern, efficient web solutions.
 
 ---
 
