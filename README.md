@@ -24,7 +24,6 @@
 ## 👋 Hello There
 
 I'm **Kuril**, I build production-ready web applications using **React** and **Node.js**, focusing on performance, clean architecture, and scalability.  
-Currently helping businesses improve their online presence through modern, efficient web solutions.
 
 Here's my main tech stack :
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
