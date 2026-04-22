@@ -35,11 +35,9 @@ Here's my main tech stack :
 ---
 
 ## 🛠️ T-Shaped Tech Stack
-
 <div align="center">
 
 ### Broad Knowledge
-
 <table>
 <tr>
 <td><img src="https://skillicons.dev/icons?i=figma&theme=dark" /></td>
@@ -49,7 +47,6 @@ Here's my main tech stack :
 <td><img src="https://skillicons.dev/icons?i=vercel&theme=dark" /></td>
 <td><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" /></td>
 </tr>
-
 <tr>
 <td><img src="https://skillicons.dev/icons?i=vite&theme=dark" /></td>
 <td><img src="https://skillicons.dev/icons?i=vitest&theme=dark" /></td>
@@ -61,49 +58,40 @@ Here's my main tech stack :
 </table>
 
 ### Specialist Depth
-
 <table>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /></td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></td>
 </tr>
-
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></td>
 </tr>
-
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" /></td>
+</tr>
 <tr>
 <td align="center">
 <img width="48" height="48" style="border-radius:12px;" src="https://img.shields.io/badge/TanStack-1E90FF?style=for-the-badge&logo=logoColor=white&label=" />
 </td>
 <td align="center"><img src="https://skillicons.dev/icons?i=redis&theme=dark" /></td>
 </tr>
-
 <tr>
 <td align="center">
 <img width="48" height="48" style="border-radius:12px;" src="https://img.shields.io/badge/T3-1E90FF?style=for-the-badge&logo=logoColor=white" />
 </td>
-
 <td align="center">
 <img width="48" height="48" style="border-radius:12px;" src="https://img.shields.io/badge/tRPC-1E90FF?style=for-the-badge&logo=logoColor=white" />
 </td>
 </tr>
-
 </table>
 
 </div>
-
 <br/>
 
 ---
