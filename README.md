@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Kuril%20-%20Full%20Stack%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-### PERN Stack Specialist
+### an aspiring PERN Stack Specialist
 
 <br/>
 
