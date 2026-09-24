@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Kuril%20-%20Full%20Stack%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-### An Aspiring PERN Stack Specialist
+### Building production-ready applications from the ground up
 
 <br/>
 
@@ -23,9 +23,12 @@
 
 ## 👋 Hello There
 
-I'm **Kuril**, I build production-ready web applications using **React** and **Node.js**, focusing on performance, clean architecture, and scalability.  
+I'm **Kuril**, a Full Stack Engineer with **1 year of software engineering experience and 4+ years in Retail Operations, Finance, and Inventory Management**.
 
-Here's my main tech stack :
+I build **production-ready applications from the ground up**, combining hands-on software engineering with real-world business experience to solve practical problems.
+
+My core stack includes:
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -35,9 +38,11 @@ Here's my main tech stack :
 ---
 
 ## 🛠️ T-Shaped Tech Stack
+
 <div align="center">
 
 ### Broad Knowledge
+
 <table>
 <tr>
 <td><img src="https://skillicons.dev/icons?i=figma&theme=dark" /></td>
@@ -58,6 +63,7 @@ Here's my main tech stack :
 </table>
 
 ### Specialist Depth
+
 <table>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" /></td>
@@ -92,6 +98,7 @@ Here's my main tech stack :
 </table>
 
 </div>
+
 <br/>
 
 ---
@@ -121,4 +128,3 @@ Here's my main tech stack :
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
 
 </div>
-
